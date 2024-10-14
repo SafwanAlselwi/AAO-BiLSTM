@@ -1,7 +1,7 @@
 # Smart Grid Stability Prediction Using Adaptive Aquila Optimizer and Ensemble Stacked BiLSTM
 
 
-## Datasets "Electrical Grid Stability Simulated Data"
+## Datasets
 
 <ol>
   <li><b>data_org.csv</b>: This is the original dataset file.</li>
