@@ -26,12 +26,18 @@ Multiple rounds of empirical experiments using different sets of optimizers and 
 * The AAO-BiLSTM outperforms state-of-the-art models, achieving accuracy, precision, recall, and F1-score of up to 99.55%.
 
 
-## Datasets
+## Files
 
 <ol>
-  <li><b>data_org.csv</b>: This is the original dataset file.</li>
-  <li><b>data_a.csv</b>: This is the augmented version of the dataset.</li>
+  <li><b>AO.py</b>: Contains the implementation of the Aquila Optimizer (AO) and the Adaptive Aquila Optimizer (AAO) algorithms using the MEALPY Python library.</li>
+  <li><b>code_01_data_preprocessing.ipynb</b>: Code for preprocessing the dataset used in smart grid stability prediction. Includes cleaning, normalization, and splitting the data into training and testing sets.</li>
+  <li><b>code_02_hyperparameters_tuning.ipynb</b>: Code for hyperparameter tuning using AAO or any other optimizer from MEALPY.</li>
+  <li><b>code_03_feature_selection.ipynb</b>: Code for feature selection using AAO or any other optimizer from MEALPY.</li>
+  <li><b>code_04_ml_comparison.ipynb</b>: Code for comparing the performance of the proposed model with various machine learning models.</li>
+  <li><b>data_org.csv</b>: The original dataset used for smart grid stability prediction before preprocessing.</li>
+  <li><b>data_a.csv</b>: The augmented version of the dataset before preprocessing</li>
 </ol>
+
 
 
 ## Please consider citing our work:
