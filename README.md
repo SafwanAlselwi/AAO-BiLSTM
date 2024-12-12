@@ -35,7 +35,7 @@ Multiple rounds of empirical experiments using different sets of optimizers and 
 
 
 ## Please consider citing our work:
-Al-Selwi, S. M., Hassan, M. F., Abdulkadir, S. J., Ragab, M. G., Alqushaibi, A., & Sumiea, E. H. (2024). Smart Grid Stability Prediction Using Adaptive Aquila Optimizer and Ensemble Stacked BiLSTM. Results in Engineering, 103261. doi: https://doi.org/10.1016/j.rineng.2024.103261.
+Al-Selwi, S. M., Hassan, M. F., Abdulkadir, S. J., Ragab, M. G., Alqushaibi, A., & Sumiea, E. H. (2024). Smart Grid Stability Prediction Using Adaptive Aquila Optimizer and Ensemble Stacked BiLSTM. Results in Engineering, 24, 103261. doi: https://doi.org/10.1016/j.rineng.2024.103261.
 <br>
 
 ## BibTeX
