@@ -1,5 +1,5 @@
 {
-    "model_name": "Proposed (Ensemble Stacked BiLSTM + PSO)",
+    "model_name": "Proposed",
     "source": "Final metrics reported in the published paper",
     "experiment_note": "Metrics obtained from the main experimental pipeline executed offline.",
     "accuracy": 0.9955,
